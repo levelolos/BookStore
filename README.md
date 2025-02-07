@@ -88,4 +88,5 @@ Contributions to the MERN-BookStore are welcome! Please follow these steps:
 
 Contributions and feedback are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue. Please follow the contribution guidelines.
 
-👨‍💻 **Author**: Anmol Purohit
+👨‍💻 **Author**: Dhruv Goyal
+
